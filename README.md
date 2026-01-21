@@ -9,7 +9,9 @@
 
 ###
 
-<p align="left">I'm a backend developer specializing in Python ecosystem, with experience in Django, FastAPI, Serverless, AWS, SQLAlchemy, Alembic and Pycantic. I work with data using Pandas, Keras, Matplotlib, ScikitLearn and I have a strong interest in AI teams that focus on innovation and new technologies.<br><br>Also, I'm also a sound designer and music producer and I enjoy combining both worlds developing plugins and modules for VCV Rack.</p>
+<p align="left">I’m a backend developer focused on building reliable APIs and data-driven services. I work across the Python ecosystem and enjoy taking projects from idea to production with clean code, testing, and solid engineering practices.
+
+Outside of work, I’m a sound designer and music producer, and I build creative audio tools—where code meets sound.</p>
 
 ###
 
