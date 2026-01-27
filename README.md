@@ -100,8 +100,12 @@ Outside of work, I’m a sound designer and music producer, and I build creative
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="40"/><br>VCV Rack
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+  <img src="https://github.com/user-attachments/assets/56ec11b5-cea1-46ca-8d95-793e79b862f0" width="40"/><br>Kubernetes
+</td>
+<td align="center">
+  <img src="https://github.com/user-attachments/assets/cb104687-6d2c-461a-8b1e-6f59048254c3" width="40"/><br>Matplotlib
+</td>
   </tr>
 </table>
 
