@@ -1,4 +1,3 @@
-
 ###
 
 <p align="left">My name is Augusto but everyone calls me Agosto.</p>
@@ -95,7 +94,7 @@ Outside of work, I’m a sound designer and music producer, and I build creative
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/><br>Photoshop
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/pt/7/7e/Fl_studio_logo.png" width="40"/><br>FL Studio
+      <img width="40" height="40" alt="pydantic" src="https://github.com/user-attachments/assets/d2746a66-0b2c-49c1-9edd-f2d9da74f7a3" /><br>Pydantic
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="40"/><br>VCV Rack
