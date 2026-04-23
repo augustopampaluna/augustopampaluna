@@ -142,6 +142,11 @@ Outside of work, I’m a sound designer and music producer, and I build creative
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
       </a>
     </td>
+    <td>
+      <a href="https://library.vcvrack.com/?brand=TeknoLogical" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="52" height="40" alt="stackoverflow logo" />
+      </a>
+    </td>
   </tr>
 </table>
 
