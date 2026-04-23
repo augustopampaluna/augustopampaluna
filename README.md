@@ -120,6 +120,29 @@ Outside of work, I’m a sound designer and music producer, and I build creative
 ###
 <br><br>
 
-<p align="right"><a href="https://www.linkedin.com/in/augustopampaluna/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a><a href="https://discord.com/channels/@agostosound" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a><a href="https://www.youtube.com/@agostosound" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /></a><a href="https://stackoverflow.com/users/29671202/augusto-pampaluna" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" /></a></p>
+<table align="right">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/augustopampaluna/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/channels/@agostosound" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@agostosound" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/29671202/augusto-pampaluna" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
