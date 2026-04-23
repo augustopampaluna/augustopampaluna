@@ -120,7 +120,7 @@ Outside of work, I’m a sound designer and music producer, and I build creative
 ###
 <br><br>
 
-<table align="right">
+<table align="left">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/augustopampaluna/" target="_blank">
