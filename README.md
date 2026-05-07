@@ -1,43 +1,20 @@
-###
-
 <p align="left">My name is Augusto but everyone calls me Agosto.</p>
-
-###
 
 <h2 align="left">Abstract</h2>
 
-###
+<p align="left">
+I’m a backend developer focused on building reliable APIs and data-driven services. I work across the Python ecosystem and enjoy taking projects from idea to production with clean code, testing, and solid engineering practices.
 
-<p align="left">I’m a backend developer focused on building reliable APIs and data-driven services. I work across the Python ecosystem and enjoy taking projects from idea to production with clean code, testing, and solid engineering practices.
-
-Outside of work, I’m a sound designer and music producer, and I build creative audio tools—where code meets sound.</p>
-
-###
+Outside of work, I’m a sound designer and music producer, and I build creative audio tools—where code meets sound.
+</p>
 
 <h2 align="left">Stack</h2>
 
-###
-
 <table bgcolor="#ffffff">
-  <!-- Core language + ecosystem -->
+  <!-- Languages + core tooling -->
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
-    </td>
-    <td align="center">
-      <img width="40" height="40" alt="pydantic" src="https://github.com/user-attachments/assets/d2746a66-0b2c-49c1-9edd-f2d9da74f7a3" /><br>Pydantic
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/cb104687-6d2c-461a-8b1e-6f59048254c3" width="40"/><br>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br>Pytest
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br>C++
@@ -46,20 +23,32 @@ Outside of work, I’m a sound designer and music producer, and I build creative
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br>Bash
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/><br>Pytest
+    </td>
+    <td align="center">
+      <img width="40" height="40" alt="pydantic" src="https://github.com/user-attachments/assets/d2746a66-0b2c-49c1-9edd-f2d9da74f7a3" /><br>Pydantic
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/><br>Postman
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="40"/><br>SSH
     </td>
   </tr>
 
-  <!-- Frameworks + API tooling -->
+  <!-- Backend + deploy + cloud -->
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br>FastAPI
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br>Django
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40"/><br>Postman
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br>FastAPI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
@@ -68,10 +57,7 @@ Outside of work, I’m a sound designer and music producer, and I build creative
       <img src="https://github.com/user-attachments/assets/56ec11b5-cea1-46ca-8d95-793e79b862f0" width="40"/><br>Kubernetes
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="40"/><br>SSH
+      <img src="https://github.com/user-attachments/assets/0df731e1-3a6d-481b-be3b-c9ee606230fb" width="40"/><br>Actions
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="40"/><br>AWS
@@ -79,9 +65,15 @@ Outside of work, I’m a sound designer and music producer, and I build creative
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br>GCP
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm
+    </td>
   </tr>
 
-  <!-- Databases -->
+  <!-- Storage + data + creative -->
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
@@ -93,19 +85,19 @@ Outside of work, I’m a sound designer and music producer, and I build creative
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/><br>PyCharm
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br>NumPy
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br>Pandas
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9d5721c0-1001-4855-a1fe-78d99ead772c" width="40"/><br>ComfyUI
+      <img src="https://github.com/user-attachments/assets/cb104687-6d2c-461a-8b1e-6f59048254c3" width="40"/><br>Matplotlib
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40"/><br>Inkscape
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0df731e1-3a6d-481b-be3b-c9ee606230fb" width="40"/><br>Actions
+      <img src="https://github.com/user-attachments/assets/9d5721c0-1001-4855-a1fe-78d99ead772c" width="40"/><br>ComfyUI
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="40"/><br>VCV Rack
@@ -113,10 +105,6 @@ Outside of work, I’m a sound designer and music producer, and I build creative
   </tr>
 </table>
 
-
-
-
-###
 <br><br>
 
 <table align="left">
@@ -143,10 +131,8 @@ Outside of work, I’m a sound designer and music producer, and I build creative
     </td>
     <td>
       <a href="https://library.vcvrack.com/?brand=TeknoLogical" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="52" height="40" alt="stackoverflow logo" />
+        <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="52" height="40" alt="vcv rack logo" />
       </a>
     </td>
   </tr>
 </table>
-
-###
