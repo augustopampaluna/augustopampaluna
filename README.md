@@ -99,7 +99,7 @@ Outside of work, I’m a sound designer and music producer, and I build creative
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VSCode
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="40"/><br>Sourcetree
+      <img src="https://github.com/user-attachments/assets/9d5721c0-1001-4855-a1fe-78d99ead772c" width="40"/><br>ComfyUI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40"/><br>Inkscape
