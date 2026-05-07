@@ -105,14 +105,13 @@ Outside of work, I’m a sound designer and music producer, and I build creative
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40"/><br>Inkscape
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/><br>Photoshop
+      <img src="https://github.com/user-attachments/assets/0df731e1-3a6d-481b-be3b-c9ee606230fb" width="40"/><br>Actions
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/25452821?s=200&v=4" width="40"/><br>VCV Rack
     </td>
   </tr>
 </table>
-
 
 
 
